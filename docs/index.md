@@ -6,6 +6,9 @@ hero:
   name: "vartruexuan"
   text: "vartruexuan"
   tagline: My great project tagline
+  image:
+    src: /home-icon.png
+    alt: 背景图
   actions:
     - theme: brand
       text: Markdown Examples
